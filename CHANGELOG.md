@@ -1,5 +1,9 @@
 # Changelog
 
+## v2.51.0
+
+* Instrument msavin:sjobs
+
 ## v2.50.2
 
 - Much better support for apps that have a very large number of traces or have traces that are very large
